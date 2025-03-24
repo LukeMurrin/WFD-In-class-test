@@ -186,7 +186,6 @@ house_instance.display()
 
 print("\n")
 
-
 country_house_instance = countryHouse(25, "Birch Cresent", "Co. Offaly", 5, 450000, True, True)
 country_house_instance.display()
 
